@@ -1,0 +1,2050 @@
+fileFormatVersion: 2
+guid: c5ef00644263c69498007b21f1f6325d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: battle-tank_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1162
+        width: 127
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96ca4be9abb4124d977cc5c90e4936b
+      internalID: -1994843378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle-tank_1
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1147
+        width: 128
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcdd50e235657be47afb7d7ebaabbd8b
+      internalID: -1720923040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle-tank_2
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1130
+        width: 72
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f57720741ee0b7e449792ec0ae3b2da2
+      internalID: -1974927380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle-tank_3
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1146
+        width: 127
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b14c89a8b45658b4a9e1109dcbe1c2ec
+      internalID: 722873146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle-tank_4
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1154
+        width: 130
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b37d48fd0e42f6141b182f22cc17a46b
+      internalID: 387612790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle-tank_5
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 1149
+        width: 124
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e51349b3e85b70a4e81f8ab57092810e
+      internalID: -1562483479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle-tank_6
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 1137
+        width: 72
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa1d5e54daa7b44b8b57eeab95a7aee
+      internalID: 954585767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle-tank_7
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 1162
+        width: 126
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e3f41b11609f29459016a542744f785
+      internalID: 1645831922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle-tank_8
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1162
+        width: 133
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 096ff637e0743fa4faee8808179df678
+      internalID: -1001844060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle-tank_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1018
+        width: 138
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f299fb576b72f3d4994352b4fdfcb405
+      internalID: -1693777033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle-tank_10
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1018
+        width: 145
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e829552b7c4b39149ac8c163f4fea2d7
+      internalID: 232315211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle-tank_11
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1018
+        width: 139
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de98c511099089741a0df5cf029bc631
+      internalID: -958908620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle-tank_12
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 1018
+        width: 137
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de6e1f45bf701d54a8252f5ac0c291e5
+      internalID: 1049648972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle-tank_13
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1018
+        width: 130
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73494b25ba41a65479ec0bb4506bb26d
+      internalID: 201209614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle-tank_14
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1018
+        width: 136
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ce561d14fa42c4eaa51d07e7cc7b88
+      internalID: -354970386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle-tank_15
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 1018
+        width: 128
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f8b6a6f643c40947bdeaf25e4e8fa77
+      internalID: -521764862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle-tank_16
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 1018
+        width: 136
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a979921f6952e47b413d6f67b8b098
+      internalID: -1070102131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle-tank_17
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 1003
+        width: 127
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3382811087e724846a35aacdd64870a0
+      internalID: -1256899540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle-tank_18
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 859
+        width: 127
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 020e3714e0cd89d45ab98bac1e651351
+      internalID: -2095354442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle-tank_19
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 857
+        width: 135
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ff8939150313641b50329869904003
+      internalID: 787236591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle-tank_20
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 855
+        width: 130
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98bbb3525b6d09044bc2dcbe20122ab1
+      internalID: 922345702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle-tank_21
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 850
+        width: 125
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 627b14b673b8cae4bac5b9ce3c486535
+      internalID: 1510333845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle-tank_22
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 858
+        width: 124
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb25123519ca8249ba4e318d4599203
+      internalID: -185191173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle-tank_23
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 858
+        width: 127
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3906318f85dd0e40a1368f9ab1e71ff
+      internalID: 427728353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle-tank_24
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 858
+        width: 127
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca9c04772198ec34d968c0f6e58f445a
+      internalID: 2134451473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle-tank_25
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 859
+        width: 127
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0124cf67d638d6a40a5b020b5faf1e56
+      internalID: -2126712048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle-tank_26
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 842
+        width: 71
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e09e0c76c7378b849ae54613c04e0ada
+      internalID: -830904221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle-tank_27
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 690
+        width: 73
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5101e7b699e202647a182503d39f96ba
+      internalID: -1186102978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle-tank_28
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 690
+        width: 71
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62937ed7fcb06d24383e6601f765668b
+      internalID: -1285224535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle-tank_29
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 690
+        width: 73
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b643eee3852020d44b499b8f9b883e10
+      internalID: -99737014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle-tank_30
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 690
+        width: 71
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ecb8fe6c9c879478fec38e8f326cd1
+      internalID: 1263239936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle-tank_31
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 690
+        width: 71
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4040c88e8cdd364c9eb980357f1e85b
+      internalID: 1426449227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle-tank_32
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 690
+        width: 71
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6788a5c03eb6ebf47adfe18ec1995efd
+      internalID: 2130274522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle-tank_33
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 690
+        width: 71
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be13d1c0ce257c47b77e8aa1723dc7f
+      internalID: 1716112182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle-tank_34
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 699
+        width: 72
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d6f6702e13b114a821c27ce77c662a
+      internalID: -1020270634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle-tank_35
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 715
+        width: 121
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1099205b95a3b274394f781bb75f6b7b
+      internalID: -948857968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle-tank_36
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 570
+        width: 126
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2afd4fca98506e84ab923b33c6e3bc06
+      internalID: -453701467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle-tank_37
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 570
+        width: 132
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870b84b33ae76fc4fb3dde8aa1d8ebc7
+      internalID: 1765780570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle-tank_38
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 570
+        width: 126
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89daacae83b41894aae86867ada4116e
+      internalID: 109037304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle-tank_39
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 570
+        width: 122
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a418b2412cb1b240a46b68ba9e137a0
+      internalID: 1407104617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle-tank_40
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 570
+        width: 126
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da6fe26723efaa448a75b12bac289ce3
+      internalID: 1103140449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle-tank_41
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 570
+        width: 127
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862a7dfceba058044a12407b5bd512dd
+      internalID: -1192620889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle-tank_42
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 570
+        width: 127
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6186915df739076438dfba86d30373e8
+      internalID: -1337209045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle-tank_43
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 570
+        width: 126
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3658b3678b92004da8029b9dfeb9069
+      internalID: -31746819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle-tank_44
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 578
+        width: 128
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65256030d2632454b9ca2fae586a9e92
+      internalID: -301859367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle-tank_45
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 434
+        width: 138
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c32f0f5016dfd9488bcc762c3bf0c63
+      internalID: 1603392411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle-tank_46
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 434
+        width: 142
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb3dc4af6ad79947938ee8d6243108e
+      internalID: 1932575779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle-tank_47
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 434
+        width: 139
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f736d92627fbb04f99e79133ac7a0be
+      internalID: -1535725725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle-tank_48
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 475
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b83ef9bb3a7ceba4eb049e9354745498
+      internalID: 659798495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle-tank_49
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 434
+        width: 128
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1935a9351ea31146b9c1b21e9875da8
+      internalID: -1403228845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle-tank_50
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 434
+        width: 127
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe23c091931216e49924e1cee20d7f34
+      internalID: 2097956193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle-tank_51
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 434
+        width: 135
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d22eb8c943bcd4347ab8c18542d2ac6e
+      internalID: -1361647166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle-tank_52
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 434
+        width: 133
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f492e31b9bfda64bba999d35bd67ed1
+      internalID: -1151888284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle-tank_53
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 434
+        width: 128
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ea014dc3021174aa4a7f0e150df635
+      internalID: -1981452756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle-tank_54
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 426
+        width: 123
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bdba32df535f944e8db343d13348365
+      internalID: -696327456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle-tank_55
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 282
+        width: 135
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc3eef10e41a0948bf743e6d572f07f
+      internalID: 1124846154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle-tank_56
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 282
+        width: 141
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b73917e2e133e48871d50f714a6c72
+      internalID: 1852300771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle-tank_57
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 299
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e92b901a518ef04aa6afd8766a6b7e6
+      internalID: -114997082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle-tank_58
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 282
+        width: 127
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9146b16c570e6c4094dd175b02bff9f
+      internalID: -600083477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle-tank_59
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 299
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8830e242ed225649ac99c2c834a5043
+      internalID: 1814864433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle-tank_60
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 283
+        width: 125
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2ccb9d7ef58db4081506c5e74722b0
+      internalID: -1721903566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle-tank_61
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 283
+        width: 133
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e6d069ff032f79418192c4e0d86dc91
+      internalID: -689231892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle-tank_62
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 282
+        width: 127
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f2654aafc35773419e632506b3d61be
+      internalID: 1038598563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle-tank_63
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 282
+        width: 128
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e2e62c599ccca45afe2c1ca9e85bf2
+      internalID: -2141776421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle-tank_64
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 283
+        width: 126
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5523c41b3d9f00f48a6aac05dc70e20f
+      internalID: 2091148999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle-tank_65
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 274
+        width: 71
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6489d988a217e8f49b4026095d73a6d2
+      internalID: -1804400292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle-tank_66
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 135
+        width: 71
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ee5470b8a05e94faa80682e160a149
+      internalID: 1810368218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle-tank_67
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 116
+        width: 72
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a201d9dbd293e74895115c85f83c51a
+      internalID: -2112256879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle-tank_68
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 122
+        width: 69
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b4633a503b5a842ae2e0ab2d91d4a4
+      internalID: 119058700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle-tank_69
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 122
+        width: 70
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd8f2da069882b149a386a08ee9bd08a
+      internalID: -908967322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle-tank_70
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 130
+        width: 71
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6398b21bebb3a604ba96a3d90ca17b54
+      internalID: 1317385711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle-tank_71
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 130
+        width: 72
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d83fb6ac3380c4b916373f1d40ad01
+      internalID: 166524214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle-tank_72
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 124
+        width: 71
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d7bf54111e49724ebe8ab59f2e98a3b
+      internalID: -1550538782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle-tank_73
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 123
+        width: 71
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab011e12a97fd649aa0d1d713298d2e
+      internalID: 1282984128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle-tank_74
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 147
+        width: 126
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56383edeef9af2c46b08295a36eeef9a
+      internalID: -1591264702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle-tank_75
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 122
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5216d33e4896e64bb2c43956fdee3fd
+      internalID: 1526510145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle-tank_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5
+        width: 128
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e732add35a37eb448a48256f92a375e0
+      internalID: -439478742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle-tank_77
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 10
+        width: 135
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5abc161ce80621a49be28eba60b9295a
+      internalID: -339660332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle-tank_78
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 5
+        width: 131
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa38513c94b77d144b30626ec927edcb
+      internalID: -1076884733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle-tank_79
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 61
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ddc76ab4f38e7b4c87edb2d4cf6f557
+      internalID: -550956270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle-tank_80
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 4
+        width: 127
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3d429c43990254e8d0859c4b627936
+      internalID: 37784681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle-tank_81
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 4
+        width: 122
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d5911f33153fe4fa8e66d4659fb282
+      internalID: 1157856598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle-tank_82
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 4
+        width: 126
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88417ee096f20f849a4984b3f9f8dd92
+      internalID: -1880806197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle-tank_83
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 4
+        width: 122
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d04bbadb4251f7429b602630f723114
+      internalID: -1085057158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle-tank_84
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 4
+        width: 125
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35cb956212e78cf4caf3ec2cf37520d2
+      internalID: 753443253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle-tank_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1300
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dbcce6309930b14f99470d2ba790cf1
+      internalID: 763537181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      battle-tank_71: 166524214
+      battle-tank_50: 2097956193
+      battle-tank_8: -1001844060
+      battle-tank_40: 1103140449
+      battle-tank_7: 1645831922
+      battle-tank_36: -453701467
+      battle-tank_56: 1852300771
+      battle-tank_12: 1049648972
+      battle-tank_15: -521764862
+      battle-tank_41: -1192620889
+      battle-tank_6: 954585767
+      battle-tank_4: 387612790
+      battle-tank_63: -2141776421
+      battle-tank_78: -1076884733
+      battle-tank_80: 37784681
+      battle-tank_57: -114997082
+      battle-tank_61: -689231892
+      battle-tank_18: -2095354442
+      battle-tank_21: 1510333845
+      battle-tank_26: -830904221
+      battle-tank_67: -2112256879
+      battle-tank_49: -1403228845
+      battle-tank_19: 787236591
+      battle-tank_1: -1720923040
+      battle-tank_10: 232315211
+      battle-tank_64: 2091148999
+      battle-tank_73: 1282984128
+      battle-tank_44: -301859367
+      battle-tank_65: -1804400292
+      battle-tank_77: -339660332
+      battle-tank_39: 1407104617
+      battle-tank_25: -2126712048
+      battle-tank_16: -1070102131
+      battle-tank_2: -1974927380
+      battle-tank_31: 1426449227
+      battle-tank_54: -696327456
+      battle-tank_55: 1124846154
+      battle-tank_32: 2130274522
+      battle-tank_52: -1151888284
+      battle-tank_22: -185191173
+      battle-tank_33: 1716112182
+      battle-tank_38: 109037304
+      battle-tank_59: 1814864433
+      battle-tank_83: -1085057158
+      battle-tank_11: -958908620
+      battle-tank_29: -99737014
+      battle-tank_20: 922345702
+      battle-tank_66: 1810368218
+      battle-tank_34: -1020270634
+      battle-tank_42: -1337209045
+      battle-tank_30: 1263239936
+      battle-tank_82: -1880806197
+      battle-tank_48: 659798495
+      battle-tank_45: 1603392411
+      battle-tank_17: -1256899540
+      battle-tank_72: -1550538782
+      battle-tank_43: -31746819
+      battle-tank_62: 1038598563
+      battle-tank_5: -1562483479
+      battle-tank_51: -1361647166
+      battle-tank_81: 1157856598
+      battle-tank_24: 2134451473
+      battle-tank_84: 753443253
+      battle-tank_28: -1285224535
+      battle-tank_47: -1535725725
+      battle-tank_3: 722873146
+      battle-tank_60: -1721903566
+      battle-tank_35: -948857968
+      battle-tank_13: 201209614
+      battle-tank_58: -600083477
+      battle-tank_75: 1526510145
+      battle-tank_85: 763537181
+      battle-tank_23: 427728353
+      battle-tank_14: -354970386
+      battle-tank_70: 1317385711
+      battle-tank_74: -1591264702
+      battle-tank_0: -1994843378
+      battle-tank_27: -1186102978
+      battle-tank_9: -1693777033
+      battle-tank_69: -908967322
+      battle-tank_76: -439478742
+      battle-tank_37: 1765780570
+      battle-tank_53: -1981452756
+      battle-tank_46: 1932575779
+      battle-tank_79: -550956270
+      battle-tank_68: 119058700
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
