@@ -133,8 +133,8 @@ MonoBehaviour:
   - {fileID: 2437165892719566809}
   - {fileID: 2437165891725813777}
   m_UseVerticalFlip: 0
-  m_EnemyLife: 120
-  m_Enemy_CurrentLife: 120
+  m_EnemyLife: 130
+  m_Enemy_CurrentLife: 130
   m_EnemyDamage: 7
   m_sendScore: 40
   m_sendReward: 1

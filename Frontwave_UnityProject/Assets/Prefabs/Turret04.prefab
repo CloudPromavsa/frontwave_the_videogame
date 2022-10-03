@@ -229,14 +229,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: eddcc05f70c8f684db7c6817743d937f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_GameManager: {fileID: 0}
   m_TurretRespawnPoint:
   - {fileID: 4379989684087651534}
   - {fileID: 202337204569542962}
   - {fileID: 6849683542470095274}
   m_TurretBullet: {fileID: 500704988513496746, guid: ef9498b4aba18f746abca6b0503fce9f, type: 3}
   m_weapon: {fileID: 4713495749579251106}
-  m_TurretBulletNextRespawn: 0.7
+  m_TurretBulletNextRespawn: 0.85
   m_EnemyFound: []
   m_torretRotationSpeed: 10
   m_RotationOffset: 180

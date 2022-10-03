@@ -147,6 +147,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_TurretBulletVelocity: 3
-  m_Damage: 0.8
+  m_Damage: 0.7
   m_Time2Destroy: 4
   debug: 0

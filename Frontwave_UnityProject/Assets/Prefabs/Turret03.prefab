@@ -79,7 +79,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: eddcc05f70c8f684db7c6817743d937f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_GameManager: {fileID: 0}
   m_TurretRespawnPoint:
   - {fileID: 4045619005818077707}
   m_TurretBullet: {fileID: 500704988513496746, guid: 3ff7a817f542d5844b7aef451cc933a2, type: 3}

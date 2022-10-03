@@ -102,7 +102,7 @@ public class GameManager : MonoBehaviour
             m_waveElements.text = "Enemy: " + (m_currentWave+1).ToString() + "/" + m_WavesQuantity.ToString();
             m_currentWave++;
             m_newWave = false; 
-        }  
+        }
 
         //If left mouse button is clicked, verify if Raycast ray collide with a game object with "WeaponMat" tag.
         //Verify if raycast2d dont detect any turret placed before instantiate
@@ -132,12 +132,23 @@ public class GameManager : MonoBehaviour
                                 UpdateScoreAndReward(0, 0);
                                 if (debug) Debug.Log("WeaponMat");
                             }
-                        }  
+                        }
                     }
                 }
             }
-        }
 
+            #if UNITY_ANDROID 
+            else if (hit.collider != null)
+            {
+                if (hit.collider.gameObject.tag == "Player")
+                {
+                    if (debug) Debug.Log("Player hit");
+                    m_Reward += m_Turret_Reward[m_turretSelection];
+                    Destroy(hit.collider.gameObject);
+                }
+            }
+            #endif
+        }
         if (m_Reward < 0) m_Reward = 0; //m_reward cannot be less than 0
 
         //Right mouse click to erase turret
@@ -155,9 +166,9 @@ public class GameManager : MonoBehaviour
                     Destroy(hit.collider.gameObject);
                 }
             }
-        }
+        } 
 
-        if(m_currentWave == m_WavesQuantity)
+        if (m_currentWave == m_WavesQuantity)
         {
             if(m_EnemySpawnedList.Count < 1)
             {
